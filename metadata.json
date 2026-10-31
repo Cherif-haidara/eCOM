@@ -1,0 +1,6 @@
+{
+  "name": "Atelier & Co. - Marketplace & E-Commerce Haute Facture",
+  "description": "Plateforme e-commerce et marketplace moderne haute performance, conçue avec React 19, TypeScript, Tailwind CSS, architecture scalable, sécurité bancaire et SEO technique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
